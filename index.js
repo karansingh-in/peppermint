@@ -5,6 +5,21 @@ const { Routes } = require("discord-api-types/v9")
 const fs = require("fs")
 const { Player } = require("discord-player")
 
+const express = require("express");
+const app = express();
+
+app.get("/" , (req , res)=> {
+  console.log("Alive");
+  res.send("Alive");
+})
+
+app.listen(3000 , (err)=>{
+  if(err){
+   console.log(err);
+}
+console.log("webserver started");
+});
+
 dotenv.config()
 const TOKEN = process.env.TOKEN
 
