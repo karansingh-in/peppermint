@@ -1,4 +1,3 @@
-#peppermint
 
 <br />
 
