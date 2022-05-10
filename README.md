@@ -27,6 +27,7 @@
 
 ---
 
+
 ### The peppermint bot is ready at your service! 🥳 🚀
 
 - Join here [Server](https://apps.apple.com/us/app/well-reboot-your-mindset/id1573357406).
