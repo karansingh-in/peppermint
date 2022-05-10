@@ -1,4 +1,4 @@
-
+##Peppermint#4030
 
 <br />
 
@@ -30,7 +30,7 @@
 
 ### The peppermint bot is ready at your service! 🥳 🚀
 
-- Join here [join the server](https://apps.apple.com/us/app/well-reboot-your-mindset/id1573357406).
+- Join here [Server](https://apps.apple.com/us/app/well-reboot-your-mindset/id1573357406).
 - Web: Visit [add bot to my server](https://discord.com/api/oauth2/authorize?client_id=973177181259857970&permissions=1644971949559&scope=bot).
 
 ---
