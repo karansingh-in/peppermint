@@ -1,7 +1,6 @@
 
 
 <br />
-### peppermint#4030
 ---
 
 <div align='center'>
